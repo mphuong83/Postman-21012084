@@ -1,5 +1,9 @@
 # Postman-collection-API
-# Giới thiệu về Postman
+<p>Tên Dự Án: Test Collection of APIs</p>
+<p>Ngày Kiểm Thử: 28/05/2024</p>
+<p>Người Kiểm Thử: Nguyễn Minh Phương</p>
+
+## Giới thiệu về Postman
 **Postman là gì?**
 - Postman là một công cụ mạnh mẽ và phổ biến dành cho việc phát triển, kiểm thử, và quản lý các API. Với Postman, người dùng có thể gửi các yêu cầu HTTP, xem và kiểm tra các phản hồi, tự động hóa các kịch bản kiểm thử và hợp tác trong phát triển API.
 - Kiểm tra API: https://openweathermap.org/api
