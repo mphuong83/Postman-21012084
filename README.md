@@ -27,28 +27,28 @@
    - **URL**: `https://jsonplaceholder.typicode.com/todos/23`
    - **Method**: GET
    - **Expected Response Code**: 200 OK
-   - ![alt text](kt1.jpeg)
+   - ![alt text](img1.jpeg)
 
 2. Kiểm Thử 2: Kiểm tra xử lý lỗi khi truy cập không hợp lệ
 
    - **URL**: `https://jsonplaceholder.typicode.com/todos/2000`
    - **Method**: GET
    - **Expected Response Code**: 404 Not Found
-   - ![alt text](kt2.jpeg)
+   - ![alt text](img2.jpeg)
 
 3. Kiểm Thử 3: Sửa đổi một công việc
 
    - **URL**: `https://jsonplaceholder.typicode.com/todos/2`
    - **Method**: PUT
    - **Expected Response Code**: 200 OK
-   - ![alt text](kt3.jpeg)
+   - ![alt text](img3.jpeg)
 
 4. Kiểm Thử 4: Tạo mới một công việc
 
    - **URL**: `https://jsonplaceholder.typicode.com/todos`
    - **Method**: POST
    - **Expected Response Code**: 201 Created
-   - ![alt text](kt4.jpeg)
+   - ![alt text](img4.jpeg)
 
 ## Báo Cáo Kiểm Thử Chi Tiết
 
